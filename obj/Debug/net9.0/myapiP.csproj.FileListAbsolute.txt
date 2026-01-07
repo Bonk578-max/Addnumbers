@@ -128,3 +128,4 @@ C:\Users\mbryc\Downloads\myapiP\myapiP\obj\Debug\net9.0\refint\myapiP.dll
 C:\Users\mbryc\Downloads\myapiP\myapiP\obj\Debug\net9.0\myapiP.pdb
 C:\Users\mbryc\Downloads\myapiP\myapiP\obj\Debug\net9.0\myapiP.genruntimeconfig.cache
 C:\Users\mbryc\Downloads\myapiP\myapiP\obj\Debug\net9.0\ref\myapiP.dll
+C:\Users\mbryc\Downloads\myapiP\myapiP\obj\Debug\net9.0\myapiP.sourcelink.json
